@@ -1,9 +1,4 @@
 Ссылка на набор данных с Kaggle:  https://www.kaggle.com/datasets/joebeachcapital/diamonds
-Ссылка на файл с выполненным заданием Knime:  
-https://hub.knime.com/s/STUMrCtfvvzk5PmB
-Ссылка на файл с выполненным заданием Power BI:  
-diamonds_powerBI.pbix 
-
 
 
 
